@@ -1,0 +1,7 @@
+#Define a function which will take a number as argument and return its factorial.
+#Call the function to print factorial of any number(integer).
+def fun(n):
+  return  n*(n-1)
+
+
+print(fun(3))
